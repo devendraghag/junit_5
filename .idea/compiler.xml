@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="junitdemo108" />
+        <module name="junitdemo109" />
+        <module name="junitdemo110" />
+        <module name="junitdemo101" />
+        <module name="junitdemo102" />
+        <module name="junitdemo103" />
+        <module name="junitdemo104" />
+        <module name="junitdemo105" />
+        <module name="junitdemo106" />
+        <module name="junitdemo107" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="junitdemo" target="17" />
+      <module name="junitdemo (1)" target="17" />
+      <module name="junitdemo (2)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

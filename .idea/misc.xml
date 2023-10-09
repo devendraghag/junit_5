@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1.01-project-solution-assert-equals-not-equals-AND-null-not-null/pom.xml" />
+        <option value="$PROJECT_DIR$/1.02-project-solution-lifecycle-methods/pom.xml" />
+        <option value="$PROJECT_DIR$/1.03-project-solution-custom-display-name/pom.xml" />
+        <option value="$PROJECT_DIR$/1.04-project-solution-assert-same-not-same-AND-true-false/pom.xml" />
+        <option value="$PROJECT_DIR$/1.05-project-solution-assert-array-iterable-lines/pom.xml" />
+        <option value="$PROJECT_DIR$/1.06-project-solution-assert-throws-and-timeouts/pom.xml" />
+        <option value="$PROJECT_DIR$/1.07-project-solution-order-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/1.08-project-solution-unit-test-reports-and-code-coverage-reports-with-intellij/pom.xml" />
+        <option value="$PROJECT_DIR$/1.09-project-solution-unit-test-reports-and-code-coverage-reports-with-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/1.10-project-solution-conditional-tests/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
